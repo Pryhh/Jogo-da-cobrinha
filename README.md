@@ -1,2 +1,2 @@
-# Jogo-da-cobrinha
-Um joguinho inspirado no jogo da cobrinho daqueles celulares dos nossos pais.. 
+# jogo-da-cobrinha
+projeto feito em python lembrando o famoso jogo da cobrinha utilizando o pygame.
